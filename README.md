@@ -1,4 +1,4 @@
-# Página Web para una tienda en línea de de ropas de crochet
+# Página Web para una tienda en línea de ropas de crochet
 
 ## Demo
 
